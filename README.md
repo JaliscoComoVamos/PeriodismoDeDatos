@@ -10,4 +10,5 @@
 - http://datos.guadalajara.gob.mx/
 - http://www.inegi.org.mx/
 - http://cienciasforenses.jalisco.gob.mx/estadisticas_sist1.php (Sistema Estadístico Sobre Autopsias)
+- http://www.iieg.gob.mx (Instituto de Información Estadística y Geográfica de Jalisco)
 - Más: https://github.com/edublancas/open-data-mexico
