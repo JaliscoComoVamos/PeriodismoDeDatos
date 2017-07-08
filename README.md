@@ -12,3 +12,8 @@
 - http://cienciasforenses.jalisco.gob.mx/estadisticas_sist1.php (Sistema Estadístico Sobre Autopsias)
 - http://www.iieg.gob.mx (Instituto de Información Estadística y Geográfica de Jalisco)
 - Más: https://github.com/edublancas/open-data-mexico
+
+## Herramientas de Software Libre:
+
+- https://www.libreoffice.org/ (alternativo de Microsoft Excel)
+- https://www.gnu.org/software/pspp/ (alternativo de SPSS)
