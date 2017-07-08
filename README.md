@@ -1,7 +1,7 @@
 # Taller: Periodismo De Datos
 
 ## Presentación
-[Diapositivas](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit#slide=id.g1e8e3205d1_0_245)
+[Diapositivas](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit?usp=sharing)
 
 ## Fuentes de Datos Abiertos
 
