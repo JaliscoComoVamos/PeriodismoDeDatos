@@ -21,4 +21,4 @@
 
 ## Encuesta de satisfacción
 Nos encantaría si nos pudieras ayudar con tu valiosa  retroalimentación: 
-- [https://docs.google.com/forms/d/e/1FAIpQLSeoQ4uLcIGacfcHwjPf7tL7wHRsw_E5ddkZ4eabwrxPyq0JTw/viewform?usp=sf_link] (Liga a una encuesta de Google Forms)
+-(Liga a una encuesta de Google Forms) [https://docs.google.com/forms/d/e/1FAIpQLSeoQ4uLcIGacfcHwjPf7tL7wHRsw_E5ddkZ4eabwrxPyq0JTw/viewform?usp=sf_link] 
