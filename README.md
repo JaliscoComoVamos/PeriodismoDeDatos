@@ -17,3 +17,4 @@
 
 - https://www.libreoffice.org/ (alternativo de Microsoft Excel)
 - https://www.gnu.org/software/pspp/ (alternativo de SPSS)
+- https://cran.r-project.org/ (software libre orientado al análisis estadístico y la visualización gráfica)
