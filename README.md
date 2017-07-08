@@ -18,3 +18,7 @@
 - https://www.libreoffice.org/ (alternativo de Microsoft Excel)
 - https://www.gnu.org/software/pspp/ (alternativo de SPSS)
 - https://cran.r-project.org/ (software libre orientado al análisis estadístico y la visualización gráfica)
+
+## Encuesta de satisfacción
+Nos encantaría si nos pudieras ayudar con tu valiosa  retroalimentación: 
+- https://docs.google.com/forms/d/e/1FAIpQLSeoQ4uLcIGacfcHwjPf7tL7wHRsw_E5ddkZ4eabwrxPyq0JTw/viewform?usp=sf_link (Liga a una encuesta de Google Forms)
