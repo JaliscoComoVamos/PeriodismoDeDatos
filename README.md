@@ -1,7 +1,8 @@
 # Taller: Periodismo De Datos
 
 ## Presentación
-[Diapositivas](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit?usp=sharing)
+[Diapositivas](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit?usp=sharing)  
+
 [Acordeón del Procesamiento de Datos con Microsoft Excel](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Acordeo%CC%81n%20del%20Procesamiento%20de%20Datos.pdf)
 
 ## Fuentes de Datos Abiertos
