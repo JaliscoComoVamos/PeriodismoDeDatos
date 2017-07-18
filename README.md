@@ -18,7 +18,17 @@ Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de 
 - Brevísima historia de las bases de datos
 - Modelos de Bases de Datos
 - Tipos de bases de datos
-- Anatomía de una base de datos (dato, tabla, celda, filas, columnas, tipos de datos, nulls, claves, tipos de operaciones, diccionario de datos)
+- Anatomía de una base de datos 
+ - dato, 
+ - tabla, 
+ - celda, 
+ - filas, 
+ - columnas, 
+ - tipos de datos, 
+ - nulls, 
+ - claves, 
+ - tipos de operaciones, 
+ - diccionario de datos
 - Breve historia del periodismo de datos
 - Entrevistar a una base de datos, ¿cómo empezar?
 
