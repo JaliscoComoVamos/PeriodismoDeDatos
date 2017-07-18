@@ -47,7 +47,7 @@ Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de 
   - No mostrar todo el contexto
   - Mostrar cambios de cifras (una dimensión) cambiando el área de una imagen (dos dimensiones)
 - Confundir con gráficas
-  - Mostrar demasiada información
+  - Mostrar demasiada información
   - No usar la tabla adecuada
  - ¿Cómo elegir la mejor gráfica?
  - Infográficos vs. vs. Visualización de Datos vs. Diseño de Información
