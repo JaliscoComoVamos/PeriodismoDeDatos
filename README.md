@@ -8,8 +8,8 @@ En este repositorio encontrarás los materiales que expusimos durante las sesion
 
 Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de Eduard Martín Borregón, profesor de periodismo de datos en la Ciudad de México. 
 
-[Diapositivas](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit?usp=sharing)  
-[Acordeón: Procesamiento de Datos con Microsoft Excel](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Acordeo%CC%81n%20del%20Procesamiento%20de%20Datos.pdf)
+- [Diapositivas](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit?usp=sharing)  
+- [Acordeón: Procesamiento de Datos con Microsoft Excel](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Acordeo%CC%81n%20del%20Procesamiento%20de%20Datos.pdf)
 
 ### Temario
 - Arquitectura de la Información: la realidad se puede modelar de muchas maneras
@@ -26,8 +26,8 @@ Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de 
 
 Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de Juan José del Toro, de Codeando Guadalajara, quien compartió su experiencia colaborando como 'hacker de sombrero blanco' con dos periodistas para [una pieza periodística sobre madres solteras](http://www.ntrguadalajara.com/post.php?id_nota=46153) publicada en NTR.  
 
-[Diapositivas](https://docs.google.com/presentation/d/1K9XJtu13dl1kduANn-t_Kv7pSFdi8I2bRpxLmpOaKBE/edit)
-[Acordeón: Cómo elegir la mejor gráfica ]()
+- [Diapositivas](https://docs.google.com/presentation/d/1K9XJtu13dl1kduANn-t_Kv7pSFdi8I2bRpxLmpOaKBE/edit)
+- [Acordeón: Cómo elegir la mejor gráfica ]()
 
 ### Temario
 - Mapas que cuentan historias
