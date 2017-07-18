@@ -24,7 +24,7 @@ Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de 
 
 ## Módulo 2 : Visualización de Datos 
 
-Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de Juan José del Toro, de Codeando Guadalajara, quien compartió su experiencia colaborando como 'hacker de sombrero blanco' con dos periodistas para [una pieza periodística sobre madres solteras] (http://www.ntrguadalajara.com/post.php?id_nota=46153) publicada en NTR.  
+Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de Juan José del Toro, de Codeando Guadalajara, quien compartió su experiencia colaborando como 'hacker de sombrero blanco' con dos periodistas para [una pieza periodística sobre madres solteras](http://www.ntrguadalajara.com/post.php?id_nota=46153) publicada en NTR.  
 
 [Diapositivas](https://docs.google.com/presentation/d/1K9XJtu13dl1kduANn-t_Kv7pSFdi8I2bRpxLmpOaKBE/edit)
 [Acordeón: Cómo elegir la mejor gráfica ]()
