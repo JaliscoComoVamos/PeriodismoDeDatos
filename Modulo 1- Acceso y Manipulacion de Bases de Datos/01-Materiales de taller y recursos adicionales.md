@@ -20,6 +20,6 @@
 
 ## Herramientas de Software Libre para Análisis Estadístico
 
--[Libre Office](https://www.libreoffice.org/) (alternativo de Microsoft Excel)
--[PSPP](https://www.gnu.org/software/pspp/) (alternativo de SPSS)
--[CRAN (Programación en R)](https://cran.r-project.org/) (software libre orientado al análisis estadístico y la visualización gráfica)
+- [Libre Office](https://www.libreoffice.org/) (alternativo de Microsoft Excel)
+- [PSPP](https://www.gnu.org/software/pspp/) (alternativo de SPSS)
+- [CRAN (Programación en R)](https://cran.r-project.org/) (software libre orientado al análisis estadístico y la visualización gráfica)
