@@ -1,5 +1,5 @@
 ### Taller: Periodismo De Datos
-# Módulo 2: Visualización s de Datos
+# Módulo 2: Visualizaciones de Datos
 
 ### Recursos de la sesión
 - [Presentación Módulo 2](https://docs.google.com/presentation/d/1K9XJtu13dl1kduANn-t_Kv7pSFdi8I2bRpxLmpOaKBE/) 
