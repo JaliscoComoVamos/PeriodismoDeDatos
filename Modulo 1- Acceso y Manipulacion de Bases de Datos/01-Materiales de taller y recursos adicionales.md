@@ -3,7 +3,7 @@
 
 ### Recursos de la sesión
 - [Presentación Módulo 1](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA)
-- [Acordeón: Procesamiento de Datos con Microsoft Excel](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Acordeo%CC%81n%20del%20Procesamiento%20de%20Datos.pdf)
+- [Acordeón: Procesamiento de Datos con Microsoft Excel (archivo PDF)](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Modulo%201-%20Acceso%20y%20Manipulacion%20de%20Bases%20de%20Datos/Acordeon%20de%20Procesamiento%20de%20Datos%20en%20Excel.pdf)
 
 ## Fuentes de Datos Abiertos
 
