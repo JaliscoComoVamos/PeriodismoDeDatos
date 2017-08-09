@@ -50,6 +50,6 @@ Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de 
   - Mostrar demasiada información
   - No usar la tabla adecuada
  - ¿Cómo elegir la mejor gráfica?
- - Infográficos vs. vs. Visualización de Datos vs. Diseño de Información
+ - Infográficos vs. Visualización de Datos vs. Diseño de Información
  - Consideraciones de diseño al realizar un infográfico
 
