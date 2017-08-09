@@ -8,7 +8,7 @@ En este repositorio encontrarás los materiales que expusimos durante las sesion
 
 Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de Eduard Martín Borregón, profesor de periodismo de datos en la Ciudad de México. 
 
-- [Diapositivas](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit?usp=sharing)  
+- [Diapositivas Módulo 1](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit?usp=sharing)  
 - [Acordeón: Procesamiento de Datos con Microsoft Excel (Archivo PDF)](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Modulo%201-%20Acceso%20y%20Manipulacion%20de%20Bases%20de%20Datos/Acordeon%20de%20Procesamiento%20de%20Datos%20en%20Excel.pdf)
 
 ### Temario
@@ -36,7 +36,7 @@ Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de 
 
 Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de Juan José del Toro, de Codeando Guadalajara, quien compartió su experiencia colaborando como 'hacker de sombrero blanco' con dos periodistas para [una pieza periodística sobre madres solteras](http://www.ntrguadalajara.com/post.php?id_nota=46153) publicada en NTR.  
 
-- [Diapositivas](https://docs.google.com/presentation/d/1K9XJtu13dl1kduANn-t_Kv7pSFdi8I2bRpxLmpOaKBE/edit)
+- [Diapositivas Módulo 2](https://docs.google.com/presentation/d/1K9XJtu13dl1kduANn-t_Kv7pSFdi8I2bRpxLmpOaKBE/edit)
 - [Acordeón: Cómo elegir la mejor gráfica (Archivo PDF)](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Modulo%202-%20Visualizacion%20de%20datos/Acordeon%20Escoger%20Tabla.pdf)
 
 ### Temario
