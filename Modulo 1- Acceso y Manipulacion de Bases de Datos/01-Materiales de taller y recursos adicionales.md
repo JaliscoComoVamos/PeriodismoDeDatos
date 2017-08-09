@@ -2,7 +2,7 @@
 # Módulo 1: Acceso y Manipulación de Bases de Datos
 
 ### Recursos de la sesión
-- [Presentación](https://docs.google.com/presentation/d/1K9XJtu13dl1kduANn-t_Kv7pSFdi8I2bRpxLmpOaKBE/edit#slide=id.g23e12d7146_0_353g)
+- [Presentación Módulo 1](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA)
 - [Acordeón: Procesamiento de Datos con Microsoft Excel](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Acordeo%CC%81n%20del%20Procesamiento%20de%20Datos.pdf)
 
 ## Fuentes de Datos Abiertos
