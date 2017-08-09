@@ -9,7 +9,7 @@ En este repositorio encontrarás los materiales que expusimos durante las sesion
 Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de Eduard Martín Borregón, profesor de periodismo de datos en la Ciudad de México. 
 
 - [Diapositivas](https://docs.google.com/presentation/d/1WyJlHRbpfSfGZpIjyVIAj-oLni5zcmYq-Jzg1Syr_GA/edit?usp=sharing)  
-- [Acordeón: Procesamiento de Datos con Microsoft Excel](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Acordeo%CC%81n%20del%20Procesamiento%20de%20Datos.pdf)
+- [Acordeón: Procesamiento de Datos con Microsoft Excel (Archivo PDF)](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Modulo%201-%20Acceso%20y%20Manipulacion%20de%20Bases%20de%20Datos/Acordeon%20de%20Procesamiento%20de%20Datos%20en%20Excel.pdf)
 
 ### Temario
 - Arquitectura de la Información: la realidad se puede modelar de muchas maneras
