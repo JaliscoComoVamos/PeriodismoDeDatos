@@ -37,7 +37,7 @@ Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de 
 Sesión impartida por Vicki Foss y Pilar Gómez, con participación especial de Juan José del Toro, de Codeando Guadalajara, quien compartió su experiencia colaborando como 'hacker de sombrero blanco' con dos periodistas para [una pieza periodística sobre madres solteras](http://www.ntrguadalajara.com/post.php?id_nota=46153) publicada en NTR.  
 
 - [Diapositivas](https://docs.google.com/presentation/d/1K9XJtu13dl1kduANn-t_Kv7pSFdi8I2bRpxLmpOaKBE/edit)
-- [Acordeón: Cómo elegir la mejor gráfica ](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/blob/v2/Modulo%202-%20Visualizacion%20de%20datos/Acordeon%20Escoger%20Tabla.pdf)
+- [Acordeón: Cómo elegir la mejor gráfica (Archivo PDF)](https://github.com/JaliscoComoVamos/PeriodismoDeDatos/raw/master/Modulo%202-%20Visualizacion%20de%20datos/Acordeon%20Escoger%20Tabla.pdf)
 
 ### Temario
 - Mapas que cuentan historias
